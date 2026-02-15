@@ -1,1 +1,7 @@
-"# RPG-game-plain-JS-and-Node.js"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/frozeck-xing/RPG-game-plain-JS-and-Node.js.git git push -u origin main
+A simple text-based RPG made in JavaScript and Node.js, intended to de-rusted myself and generate a base project with the idea of migrate it to Web later.
+
+Instructions to run in local:
+1. Clone the master branch
+2. Navigate in your terminal to the file location.
+3. Execute ```node main.js```
+4. Enjoy!!
